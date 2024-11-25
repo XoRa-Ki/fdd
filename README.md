@@ -7,9 +7,14 @@ Il s'inspire en grande majorité des Fire Emblem, tant bien dans les règles que
 J'ai eu bien d'autres inspirations, que je détaille dans les règles de base.
 
 Le système est divisé en plusieurs documents, afin de rendre la lecture et la recherche d'informations plus fluide. Ces documents sont :
-- Les Règles de base, document destiné à être lu en premier, détaillant les règles principales du système,
-- Le Guide des Terrains et des Monstres (GTM), qui détaille les intéractions avec les terrains et les ennemis/monstres, ainsi que la gestion de l'expérience,
-- La Table des Références (TDR), qui liste tous les objets, classes, origines, etc. du système.
+- les Règles de base qui, comme son nom l’indique, liste les règles de base,
+- le Codex des Classes (CdC), qui catégorise toutes les classes du système,
+- le Catalogue des Équipements (CdE), qui liste les divers équipements du système,
+- le Grimoire des Enchantements et des Techniques (GET), qui classifie tous les enchantements et toutes les techniques du système,
+- le Recueil des Origines (RdO), qui liste toutes les origines du système,
+- le Guide du Maître du Jeu (GMJ), qui introduit les divers points clé pour la masterisation d'une session,
+- le Bestiaire (BES), qui liste les divers monstres du système.
+
 
 ## Objectifs pour la 2ème Edition
 
