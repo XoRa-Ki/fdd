@@ -15,17 +15,20 @@ Le système est divisé en plusieurs documents, afin de rendre la lecture et la 
 - le Guide du Maître du Jeu (GMJ), qui introduit les divers points clé pour la masterisation d'une session,
 - le Bestiaire (BES), qui liste les divers monstres du système.
 
-
 ## Objectifs pour la 2ème Edition
 
+### Fait
+
+
+### En cours 
 - (Un logo)
-
 - Amélioration du RP
-- Rework des classes (le principe reste le même, c'est surtout sur leur fonctionnement dans les détails)
-- Equilibrage + inclusions des retours (notamment ajustement des dégâts à toutes les phases de jeu)
-- Ajout de contenu (techniques, classes, origines, ...)
-
+- Equilibrage + inclusions des retours
 - Amélioration de la Fiche de Personnage Google Sheet
+
+### A faire
+- Rework des classes (le principe reste le même, c'est surtout sur leur fonctionnement dans les détails)
+- Ajout de contenu (techniques, classes, origines, ...)
 - Amélioration de la Fiche de Personnage Papier pour Oneshot
 - Fiche de Personnage Papier pour Campagne
 
