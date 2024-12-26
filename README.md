@@ -8,28 +8,29 @@ J'ai eu bien d'autres inspirations, que je détaille dans les règles de base.
 
 Le système est divisé en plusieurs documents, afin de rendre la lecture et la recherche d'informations plus fluide. Ces documents sont :
 - les Règles de base qui, comme son nom l’indique, liste les règles de base,
-- le Codex des Classes (CdC), qui catégorise toutes les classes du système,
-- le Catalogue des Équipements (CdE), qui liste les divers équipements du système,
-- le Grimoire des Enchantements et des Techniques (GET), qui classifie tous les enchantements et toutes les techniques du système,
-- le Recueil des Origines (RdO), qui liste toutes les origines du système,
+- le Codex des Classes (CdCl), qui catégorise toutes les classes du système,
+- le Catalogue des Commerces (CdCo), qui liste les divers équipements du système ainsi que les mécaniques qui leur sont liées (forge, enchantements, etc.),
+- le Grimoire des Techniques (GDT), qui classifie toutes les techniques du système,
+- le Recueil des Origines (RDO), qui liste toutes les origines du système,
 - le Guide du Maître du Jeu (GMJ), qui introduit les divers points clé pour la masterisation d'une session,
 - le Bestiaire (BES), qui liste les divers monstres du système.
 
-## Objectifs pour la 2ème Edition
+# Objectifs pour la 2ème Edition
 
-### Fait
+## Fait
+- Un logo
 
-
-### En cours 
-- (Un logo)
-- Amélioration du RP
+## En cours
 - Equilibrage + inclusions des retours
-- Amélioration de la Fiche de Personnage Google Sheet
+- Amélioration de la Fiche de Personnage Papier pour Oneshot
 
-### A faire
+## A améliorer avec le temps
+- RP
+- Fiche de Personnage Google Sheet
+
+## A faire
 - Rework des classes (le principe reste le même, c'est surtout sur leur fonctionnement dans les détails)
 - Ajout de contenu (techniques, classes, origines, ...)
-- Amélioration de la Fiche de Personnage Papier pour Oneshot
 - Fiche de Personnage Papier pour Campagne
 
 Bonne lecture !
