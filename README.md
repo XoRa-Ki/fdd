@@ -17,7 +17,7 @@ Le système est divisé en plusieurs documents, afin de rendre la lecture et la 
 
 # Objectifs pour la 2ème Edition
 
-## Fait
+## Fait
 - Un logo
 
 ## En cours
