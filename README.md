@@ -8,9 +8,9 @@ J'ai eu bien d'autres inspirations, que je détaille dans les règles de base.
 
 Le système est divisé en plusieurs documents, afin de rendre la lecture et la recherche d'informations plus fluide. Ces documents sont :
 - les Règles de base qui, comme son nom l’indique, liste les règles de base,
-- le Codex des Classes (CdCl), qui catégorise toutes les classes du système,
+- le Codex des Classes (CdCl), qui catégorise toutes les classes du système ainsi que leurs différentes techniques spéciales,
 - le Catalogue des Commerces (CdCo), qui liste les divers équipements du système ainsi que les mécaniques qui leur sont liées (forge, enchantements, etc.),
-- le Grimoire des Techniques (GDT), qui classifie toutes les techniques du système,
+- le Grimoire des Techniques Ordinaires (GTO), qui classifie toutes les techniques ordinaires du système,
 - le Recueil des Origines (RDO), qui liste toutes les origines du système,
 - le Guide du Maître du Jeu (GMJ), qui introduit les divers points clé pour la masterisation d'une session,
 - le Bestiaire (BES), qui liste les divers monstres du système.
