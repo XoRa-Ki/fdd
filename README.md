@@ -17,20 +17,21 @@ Le système est divisé en plusieurs documents, afin de rendre la lecture et la 
 
 # Objectifs pour la 2ème Edition
 
-## Fait
+## Fait
 - Un logo
+- Rework des classes (le principe reste le même, c'est surtout sur leur fonctionnement dans les détails)
 
 ## En cours
 - Equilibrage + inclusions des retours
 - Amélioration de la Fiche de Personnage Papier pour Oneshot
+- Fiche de Personnage Papier pour Campagne
 
 ## A améliorer avec le temps
 - RP
 - Fiche de Personnage Google Sheet
 
 ## A faire
-- Rework des classes (le principe reste le même, c'est surtout sur leur fonctionnement dans les détails)
+
 - Ajout de contenu (techniques, classes, origines, ...)
-- Fiche de Personnage Papier pour Campagne
 
 Bonne lecture !
